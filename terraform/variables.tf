@@ -13,5 +13,5 @@ variable "instance_type" {
 variable "iam_instance_profile" {
   description = "Perfil IAM para la instancia de AWS Academy"
   type        = string
-  default     = "LabRole"
+  default     = "LabInstanceProfile"
 }
