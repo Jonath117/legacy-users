@@ -13,4 +13,4 @@ Este proyecto moderniza el despliegue de un microservicio legacy en Node.js, imp
 
 La aplicación se encuentra desplegada y respondiendo exitosamente en el puerto asignado (8000):
 
-**http://[190.104.20.154]:8000**
+**http://[10.80.114.210]:8000**
